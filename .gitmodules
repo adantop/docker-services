@@ -1,0 +1,6 @@
+[submodule "postgresql"]
+	path = postgresql
+	url = git@github.com:adantop/postgresql.git
+[submodule "mysql"]
+	path = mysql
+	url = git@github.com:adantop/mysql.git
