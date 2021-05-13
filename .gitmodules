@@ -7,3 +7,4 @@
 [submodule "sonarqube"]
 	path = sonarqube
 	url = git@pgithub.com:adantop/sonarqube.git
+	branch = main
