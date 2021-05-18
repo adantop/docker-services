@@ -1,12 +1,12 @@
 [submodule "postgresql"]
 	path = postgresql
-	url = git@pgithub.com:adantop/postgresql.git
+	url = git@github.com:adantop/postgresql.git
 	branch = main
 [submodule "mysql"]
 	path = mysql
-	url = git@pgithub.com:adantop/mysql.git
+	url = git@github.com:adantop/mysql.git
 	branch = main
 [submodule "sonarqube"]
 	path = sonarqube
-	url = git@pgithub.com:adantop/sonarqube.git
+	url = git@github.com:adantop/sonarqube.git
 	branch = main
